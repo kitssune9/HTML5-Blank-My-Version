@@ -71,3 +71,7 @@ There are a few ways to get involved, submit a Pull Request, or submit a comment
 * Category support for showing the Category of post
 * Author support showing the author
 * Demo Custom Page Template for expansion
+
+### Modifikation 1.0
+* Dodano do szablonu bootstrap z możliwością tworzenia rozwijanego menu
+* Dodano możliwość tworzenia arkuszy styli less
